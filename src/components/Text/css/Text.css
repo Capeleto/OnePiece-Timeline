@@ -1,0 +1,79 @@
+.timeline-text {
+    line-height: normal;
+}
+
+.timeline-text--bold {
+    font-weight: bold;
+}
+
+.timeline-text--italic {
+    font-style: italic;
+}
+
+.timeline-text--deleted {
+    text-decoration: line-through;
+}
+
+.timeline-text--underline {
+    text-decoration: underline;
+}
+
+.timeline-text--lowercase {
+    text-transform: lowercase;
+}
+
+.timeline-text--uppercase {
+    text-transform: uppercase;
+}
+
+.timeline-text--capitalize {
+    text-transform: capitalize;
+}
+
+.timeline-text--right-space {
+    margin-right: 10px;
+}
+
+.timeline-text--left-space {
+    margin-left: 10px;
+}
+
+.timeline-text--sm {
+    font-size: 0.8em;
+}
+
+.timeline-text--md {
+    font-size: 1.4em;
+}
+
+.timeline-text--lg {
+    font-size: 2em;
+}
+
+.timeline-text-block {
+    display: block;
+}
+
+.timeline-text-align--center {
+    text-align: center;
+}
+
+.timeline-text-align--end {
+    text-align: end;
+}
+
+.timeline-text-align--justify {
+    text-align: justify;
+}
+
+.timeline-text-align--left {
+    text-align: left;
+}
+
+.timeline-text-align--right {
+    text-align: right;
+}
+
+.timeline-text-align--start {
+    text-align: start;
+}
